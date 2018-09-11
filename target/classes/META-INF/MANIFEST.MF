@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: birds
+Implementation-Version: 0.0.1
+Built-By: johan
+Implementation-Vendor-Id: com.birds
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/birds
+Created-By: Maven Integration for Eclipse
+
